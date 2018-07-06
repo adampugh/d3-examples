@@ -2,7 +2,8 @@ import React, { Component } from 'react';
 
 import Basic1 from "./components/basic1";
 import Basic2 from "./components/basic2";
-
+import Basic3 from "./components/basic3";
+import Basic4 from "./components/basic4";
 
 class App extends Component {
   render() {
@@ -11,6 +12,8 @@ class App extends Component {
         <h1>D3.js Examples</h1>
         <Basic1 />
         <Basic2 />
+        <Basic3 />
+        <Basic4 />
       </div>
     );
   }

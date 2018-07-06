@@ -10,7 +10,7 @@ class Basic1 extends Component {
     }
 
     componentDidMount() {
-        d3.select("h2").style("color", "coral")
+        d3.select("h2").style("color", "#d283de")
             .attr("class", "heading")
             .text(" Basic 1 - Data Set")
             

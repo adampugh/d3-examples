@@ -10,7 +10,7 @@ body {
 }
 
 .heading {
-  color: coral;
+  color: #d283de;
 }
 
 .hr-style {
@@ -23,4 +23,13 @@ body {
 
 .comment {
   color: rgb(175, 175, 175);
+}
+
+svg {
+  /* background: lightgrey; */
+  background-image: linear-gradient(to right bottom, #d283de, #9ea8fd, #79c4fe, #86d6ee, #b1e3e1);
+}
+
+.rect-1 {
+  fill: whitesmoke;
 }
