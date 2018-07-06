@@ -1,0 +1,8 @@
+.btn-grey {
+    background: light-grey;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 10px;
+    border: none;
+    /* box-shadow: 1px 1px 9px 1px #828282; */
+}

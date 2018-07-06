@@ -3,3 +3,24 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.heading {
+  color: coral;
+}
+
+.hr-style {
+  margin: 10px 0;
+  border: 0;
+  height: 1px;
+  /* background: #fff; */
+  background-image: linear-gradient(to right, lightgrey, #ccc, #f7f7f7);
+}
+
+.comment {
+  color: rgb(175, 175, 175);
+}
