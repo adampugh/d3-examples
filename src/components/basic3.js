@@ -68,6 +68,7 @@ class Basic3 extends Component {
             <section id="basic3">
                 <h1 className="heading">Basic 3 - Bar Chart</h1>
                 <svg className="bar-chart"></svg>
+                <hr className="hr-style" />
             </section>
         )
     }
