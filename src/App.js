@@ -8,6 +8,7 @@ import Basic5 from "./components/basic5";
 import Basic6 from "./components/basic6";
 import Basic7 from "./components/basic7";
 import Basic8 from "./components/basic8";
+import NewFeature from "./components/newFeature";
 
 class App extends Component {
   render() {
@@ -22,6 +23,7 @@ class App extends Component {
         <Basic6 />
         <Basic7 />
         <Basic8 />
+        <NewFeature />
       </div>
     );
   }
